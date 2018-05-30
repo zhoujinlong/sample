@@ -14,5 +14,6 @@
         @include('layouts._footer')
       </div>
     </div>
-  </body>
+    <script src="/js/app.js"></script>
+  </body>  
 </html>
